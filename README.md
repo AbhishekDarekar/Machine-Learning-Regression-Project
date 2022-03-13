@@ -14,7 +14,7 @@ What we'll end up with
 Since we already have a dataset, we'll approach the problem with the following machine learning modelling framework.
 
 
-6 Step Machine Learning Modelling Framework (read more)
+6 Step Machine Learning Modelling Framework:
 
 To work through these topics, we'll use pandas, Matplotlib and NumPy for data anaylsis, as well as, Scikit-Learn for machine learning and modelling tasks.
 
